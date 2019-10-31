@@ -1,0 +1,8 @@
+1	nz1_63_a.tif	nz1_6_a.tif	nz1_63_a.tif	nz1_56_a.tif	bot	3	A
+2	nz1_63_a.tif	nz1_56_a.tif	nz1_63_a.tif	nz1_56_a.tif	bot	1	A
+3	nz1_68_a.tif	nz1_6_a.tif	nz1_58_a.tif	nz1_56_a.tif	bot	4	A
+4	nz1_58_a.tif	nz1_64_a.tif	nz1_58_a.tif	nz1_64_a.tif	top	1	A
+5	nz1_68_a.tif	nz1_6_a.tif	nz1_60_a.tif	nz1_6_a.tif	bot	2	A
+6	nz1_60_a.tif	nz1_28_a.tif	nz1_68_a.tif	nz1_56_a.tif	top	4	A
+7	nz1_58_a.tif	nz1_6_a.tif	nz1_63_a.tif	nz1_6_a.tif	top	2	A
+8	nz1_68_a.tif	nz1_2_a.tif	nz1_68_a.tif	nz1_64_a.tif	top	3	A

@@ -1,0 +1,8 @@
+1	ng2-m-26-a.tif	ng2-f-4-a.tif	ng2-m-26-a.tif	ng2-f-4-a.tif	top	1	A
+2	ng2-m-2-a.tif	ng2-m-12-a.tif	ng2-m-2-a.tif	ng2-f-32-a.tif	top	3	A
+3	ng2-f-38-a.tif	ng2-m-12-a.tif	ng2-m-18-a.tif	ng2-m-12-a.tif	top	2	A
+4	ng2-m-2-a.tif	ng2-f-4-a.tif	ng2-f-38-a.tif	ng2-f-4-a.tif	bot	2	A
+5	ng2-f-36-a.tif	ng2-f-20-a.tif	ng2-f-36-a.tif	ng2-m-12-a.tif	bot	3	A
+6	ng2-m-18-a.tif	ng2-f-32-a.tif	ng2-m-2-a.tif	ng2-f-4-a.tif	bot	4	A
+7	ng2-m-2-a.tif	ng2-f-18-a.tif	ng2-m-18-a.tif	ng2-f-32-a.tif	top	4	A
+8	ng2-f-38-a.tif	ng2-f-32-a.tif	ng2-f-38-a.tif	ng2-f-32-a.tif	bot	1	A
